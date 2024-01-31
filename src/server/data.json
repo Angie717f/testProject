@@ -1,0 +1,753 @@
+{
+  "restaurants": [
+    {
+      "name": "Dragon Garden",
+      "cuisine": "chinese",
+      "poster": "https://menu.am/resources/default/img/restaurants/big/1676405786667-1597.jpg",
+      "menu": [
+        {
+          "category": "Appetizers",
+          "items": [
+            {
+              "name": "Spring Rolls",
+              "description": "Crispy spring rolls with vegetables and dipping sauce",
+              "price": 5.99,
+              "iamge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6RVWRo5bemMuZt-tz4b1zn3jaVI8VT6-XWQ&usqp=CAU"
+            },
+            {
+              "name": "Edamame",
+              "description": "Steamed soybeans with sea salt",
+              "price": 4.99,
+              "image": "https://westontable.com/cdn/shop/articles/Edamame-with-Truffle-Salt-Weston-Table_1631x.jpg?v=1595872784"
+            }
+          ]
+        },
+        {
+          "category": "Main Courses",
+          "items": [
+            {
+              "name": "General Tso's Chicken",
+              "description": "Crispy chicken in a sweet and spicy sauce",
+              "price": 12.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtNRqNjDCro-6zv9PBVEfJFyNhx3WHlI0dPA&usqp=CAU"
+            },
+            {
+              "name": "Vegetable Stir-Fry",
+              "description": "Assorted vegetables stir-fried in a savory sauce",
+              "price": 10.99,
+              "image": "https://therecipecritic.com/wp-content/uploads/2019/08/vegetable_stir_fry-500x500.jpg"
+            }
+          ]
+        },
+        {
+          "category": "Desserts",
+          "items": [
+            {
+              "name": "Fortune Cookies",
+              "description": "Traditional fortune cookies for good luck",
+              "price": 2.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_F_OLPiX9LGmm1-vkW2fFLk1l1PpFEgGuPw&usqp=CAU"
+            },
+            {
+              "name": "Mango Sticky Rice",
+              "description": "Sweet sticky rice topped with fresh mango slices",
+              "price": 6.99,
+              "image": "https://takestwoeggs.com/wp-content/uploads/2021/07/Thai-Mango-Sticky-Rice-Takestwoeggs-Process-Final-sq-500x500.jpg"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Japona",
+      "cuisine": "sushi",
+      "poster": "https://menu.am/resources/default/img/restaurants/big/1694756573577-2776.jpg",
+      "menu": [
+        {
+          "category": "Sushi Rolls",
+          "items": [
+            {
+              "name": "Dragon Roll",
+              "description": "Eel, avocado, and cucumber roll topped with avocado and eel sauce",
+              "price": 14.99,
+              "image": "https://ebi10ph.com/cdn/shop/products/RF-EBI10-PROD-RollsandSashimi-DragonRoll_2.png?v=1627392537"
+            },
+            {
+              "name": "Spicy Tuna Roll",
+              "description": "Spicy tuna, avocado, and cucumber roll with spicy mayo",
+              "price": 12.99,
+              "image": "https://www.livveganstrong.com/wp-content/uploads/2022/09/sushi-fp-500x500.jpg"
+            }
+          ]
+        },
+        {
+          "category": "Nigiri",
+          "items": [
+            {
+              "name": "Salmon Nigiri",
+              "description": "Fresh salmon atop a small bed of rice",
+              "price": 5.99,
+              "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCXk5eAJhJjvQVQXFFU-XlM4M31W_wz7uWZw&usqp=CAU"
+            },
+            {
+              "name": "Yellowtail Nigiri",
+              "description": "Yellowtail fish on a small bed of rice",
+              "price": 6.99,
+                 "image": "https://www.livveganstrong.com/wp-content/uploads/2022/09/sushi-fp-500x500.jpg"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Tavern Caucasus",
+      "cuisine": "italian",
+      "poster": "https://menu.am/resources/default/img/restaurants/big/1689233982495-95.jpg",
+      "menu": [
+        {
+          "category": "Appetizers",
+          "items": [
+            {
+              "name": "Khachapuri",
+              "description": "Georgian cheese-filled bread",
+              "price": 10.99,
+              "image": "https://s3.amazonaws.com/static.realcaliforniamilk.com/media/recipes_2/california-cheese-khachapuri.jpg" 
+            },
+            {
+              "name": "Satsivi",
+              "description": "Chicken in walnut sauce",
+              "price": 12.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyLpDNFkKCq3GBxt6aaobxfb1oE2gxj2fywA&usqp=CAU"
+            }
+          ]
+        },
+        {
+          "category": "Main Courses",
+          "items": [
+            {
+              "name": "Shashlik",
+              "description": "Grilled skewers of marinated meat",
+              "price": 16.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz05h-jMrppixproORfWxU3K7yjxra-uKMNQ&usqp=CAU"
+            },
+            {
+              "name": "Khinkali",
+              "description": "Georgian dumplings filled with meat and spices",
+              "price": 14.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTav-7DDpNLKCgXMs9g9n8-uYfcdsrWJPXrg&usqp=CAU"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "PaPa Pizza",
+      "poster": "https://menu.am/resources/default/img/restaurants/big/1695038326424-1416.jpg",
+      "cuisine": "italian",
+      "menu": [
+        {
+          "category": "Classic Pizzas",
+          "items": [
+            {
+              "name": "Margherita",
+              "description": "Tomato, mozzarella, and basil",
+              "price": 11.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2t2gyukozGBgcPOJut0sxl6P_roW0IC50tA&usqp=CAU"
+            },
+            {
+              "name": "Pepperoni",
+              "description": "Classic pepperoni and mozzarella",
+              "price": 13.99,
+              "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4SaSZMwdLO640OeK-vq6yNejDRBUjru_9RQ&usqp=CAU"
+            }
+          ]
+        },
+        {
+          "category": "Specialty Pizzas",
+          "items": [
+            {
+              "name": "Vegetarian Supreme",
+              "description": "Assorted vegetables, mushrooms, and olives",
+              "price": 15.99,
+              "image": "https://www.dhakaflowers.com/images/detailed/2/pizza-inn-veggie-supreme-pizza-family.jpg"
+            },
+            {
+              "name": "Meat Lover's",
+              "description": "Pepperoni, sausage, bacon, and ham",
+              "price": 17.99,
+              "image":"https://s3.ca-central-1.amazonaws.com/media.shopmyfundraising.com/wp-content/uploads/sites/169/2023/05/30212444/Meat-Lovers-Pizza.png"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Continent",
+      "poster":"https://menu.am/resources/default/img/restaurants/big/1699624953767-2837.jpg",
+      "cuisine": "greece",
+      "menu": [
+        {
+          "category": "Appetizers",
+          "items": [
+            {
+              "name": "Garlic Bread",
+              "description": "Toasted bread with garlic and herbs",
+              "price": 5.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2AD_wuOGlUZHzYUg3JWXRa6gE2BEmoarTjA&usqp=CAU"
+            },
+            {
+              "name": "Bruschetta",
+              "description": "Tomato, basil, and onion on toasted bread",
+              "price": 7.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS60BhJumo4asNKzHCzTVxh_zru5UD5VdQZlw&usqp=CAU"
+            }
+          ]
+        },
+        {
+          "category": "Main Courses",
+          "items": [
+            {
+              "name": "Chicken Alfredo",
+              "description": "Grilled chicken with fettuccine in Alfredo sauce",
+              "price": 14.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7lg4kEmfA79jCZR68RVHj_wJRP9iQyB1VZw&usqp=CAU"
+            },
+            {
+              "name": "Beef Tenderloin",
+              "description": "Grilled beef tenderloin with mashed potatoes",
+              "price": 19.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0NdMtbCMcQQGvI2QnFHHGd8vO5wpGTbm3aw&usqp=CAU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Byblos",
+      "cuisine": "lebanon",
+      "poster": "https://menu.am/resources/default/img/restaurants/big/1698322795230-2843.jpg",
+      "menu": [
+        {
+          "category": "Appetizers",
+          "items": [
+            {
+              "name": "Hummus",
+              "description": "Blended chickpeas with tahini, garlic, and lemon",
+              "price": 6.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWbiL3unfhfHFMLI2N1nreVaFi9EXNirfLX5UGELNwARQAPSEgMZgDr7HtPpYuLEIK0WY&usqp=CAU"
+            },
+            {
+              "name": "Baba Ghanoush",
+              "description": "Smoky eggplant dip with tahini and garlic",
+              "price": 8.99,
+              "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUWmNwGOAD2lImcXjU-KkYkhmuWDbSzgLJqQ&usqp=CAU"
+            }
+          ]
+        },
+        {
+          "category": "Main Courses",
+          "items": [
+            {
+              "name": "Shawarma Plate",
+              "description": "Marinated and grilled meat served with rice and veggies",
+              "price": 15.99,
+              "image": "https://149370792.v2.pressablecdn.com/wp-content/uploads/2020/08/Chicken-Shawarma-Plate-Recipe-15-500x500.jpeg"
+            },
+            {
+              "name": "Falafel Wrap",
+              "description": "Falafel balls with veggies in a wrap",
+              "price": 12.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlS0-QPp65CNXlJyNNZFI6afewoibYNf7zeg&usqp=CAU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Keto Sushi",
+      "poster": "https://menu.am/resources/default/img/restaurants/big/1694755833090-2731.jpg",
+      "cuisine": "sushi",
+      "menu": [
+        {
+          "category": "Sushi Rolls",
+          "items": [
+            {
+              "name": "Avocado Cucumber Roll",
+              "description": "Avocado and cucumber wrapped in seaweed and rice",
+              "price": 10.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaPfY4S7-Od3j7YvEvtVIJyaKgRlxEqZIMlQ&usqp=CAU"
+            },
+            {
+              "name": "Salmon and Cream Cheese Roll",
+              "description": "Smoked salmon and cream cheese in a roll",
+              "price": 12.99,
+              "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/e27a6f0b-6674-4c86-8e58-f04cc236f84c_menu-item-image_1626404961468.jpg"
+            }
+          ]
+        },
+        {
+          "category": "Sashimi",
+          "items": [
+            {
+              "name": "Tuna Sashimi",
+              "description": "Fresh tuna slices served with soy sauce",
+              "price": 14.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQacsuE2Sz6ZsbNBuTasiq4dRiGK2KugRjwwA&usqp=CAU"
+            },
+            {
+              "name": "Yellowtail Sashimi",
+              "description": "Yellowtail slices served with wasabi",
+              "price": 16.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShWIJkgW1bB911W9zuCnISloAYJL6yZHDPOg&usqp=CAU"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "KFC 1 Northern Ave",
+      "poster": "https://menu.am/resources/default/img/restaurants/big/1696579908696-2722.jpg",
+      "cuisine": "american",
+      "menu": [
+        {
+          "category": "Chicken Buckets",
+          "items": [
+            {
+              "name": "Original Recipe Chicken",
+              "description": "Classic KFC fried chicken with the original blend of 11 herbs and spices",
+              "price": 12.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzXBWdCdhPnedyYGIOK-tjhbNy_RhXS07dwg&usqp=CAU"
+            },
+            {
+              "name": "Extra Crispy Chicken",
+              "description": "Crispy fried chicken with a special extra crispy coating",
+              "price": 14.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Ho0kxmYpYyZ6QKvzYeYV3shkryxNXC9ZFg&usqp=CAU"
+            }
+          ]
+        },
+        {
+          "category": "Sides",
+          "items": [
+            {
+              "name": "Mashed Potatoes",
+              "description": "Creamy mashed potatoes with gravy",
+              "price": 3.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJQdnKYso9jZkFyp0jQNe-EFRdWOTVnRZTuQ&usqp=CAU"
+            },
+            {
+              "name": "Cole Slaw",
+              "description": "Shredded cabbage and carrots in a tangy dressing",
+              "price": 2.99,
+              "image": "https://theplantbasedschool.com/wp-content/uploads/2023/06/Creamy-coleslaw-500x500.jpg"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Boom Food",
+      "poster": "https://menu.am/resources/default/img/restaurants/big/1698746958587-2840.jpg",
+      "cuisine": "Various",
+      "menu": [
+        {
+          "category": "Appetizers",
+          "items": [
+            {
+              "name": "Boom Bites",
+              "description": "Assorted bite-sized appetizers",
+              "price": 8.99,
+              "image": "https://theplantbasedschool.com/wp-content/uploads/2023/06/Creamy-coleslaw-500x500.jpg"
+            },
+            {
+              "name": "Crispy Wings",
+              "description": "Crispy chicken wings with choice of sauce",
+              "price": 10.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnZAiIqjNRb9UCPQ6lSlMeEqdyR4ajfHLQ6w&usqp=CAU"
+            }
+          ]
+        },
+        {
+          "category": "Main Courses",
+          "items": [
+            {
+              "name": "Boom Burger",
+              "description": "Juicy beef patty with special Boom sauce",
+              "price": 15.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnZAiIqjNRb9UCPQ6lSlMeEqdyR4ajfHLQ6w&usqp=CAU"
+            },
+            {
+              "name": "Vegetarian Delight",
+              "description": "Grilled vegetables with quinoa",
+              "price": 12.99,
+              "image": "https://theplantbasedschool.com/wp-content/uploads/2023/06/Creamy-coleslaw-500x500.jpg"
+            }
+          ]
+        },
+        {
+          "category": "Desserts",
+          "items": [
+            {
+              "name": "Chocolate Explosion",
+              "description": "Decadent chocolate cake with vanilla ice cream",
+              "price": 7.99,
+              "image": "https://s3.amazonaws.com/static.realcaliforniamilk.com/media/recipes_2/california-cheese-khachapuri.jpg" 
+            },
+            {
+              "name": "Fruit Parfait",
+              "description": "Layers of fresh fruits and yogurt",
+              "price": 6.99,
+              "image": "https://s3.amazonaws.com/static.realcaliforniamilk.com/media/recipes_2/california-cheese-khachapuri.jpg" 
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Concept",
+      "cuisine": "Modern Fusion",
+      "poster": "https://menu.am/resources/default/img/restaurants/big/1698326828186-2819.jpg",
+      "menu": [
+        {
+          "category": "Appetizers",
+          "items": [
+            {
+              "name": "Edamame Hummus",
+              "description": "Edamame blended with chickpeas and tahini",
+              "price": 9.99,
+              "image": "https://theplantbasedschool.com/wp-content/uploads/2023/06/Creamy-coleslaw-500x500.jpg"
+            },
+            {
+              "name": "Tuna Tartare",
+              "description": "Fresh tuna with avocado and soy ginger dressing",
+              "price": 12.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnZAiIqjNRb9UCPQ6lSlMeEqdyR4ajfHLQ6w&usqp=CAU"
+            }
+          ]
+        },
+        {
+          "category": "Main Courses",
+          "items": [
+            {
+              "name": "Miso Glazed Salmon",
+              "description": "Grilled salmon with miso glaze",
+              "price": 18.99,
+              "image": "https://s3.amazonaws.com/static.realcaliforniamilk.com/media/recipes_2/california-cheese-khachapuri.jpg" 
+            },
+            {
+              "name": "Truffle Risotto",
+              "description": "Creamy risotto with truffle oil and mushrooms",
+              "price": 16.99,
+              "image": "https://theplantbasedschool.com/wp-content/uploads/2023/06/Creamy-coleslaw-500x500.jpg"
+            }
+          ]
+        },
+        {
+          "category": "Desserts",
+          "items": [
+            {
+              "name": "Matcha Cheesecake",
+              "description": "Cheesecake infused with matcha green tea",
+              "price": 8.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnZAiIqjNRb9UCPQ6lSlMeEqdyR4ajfHLQ6w&usqp=CAU"
+            },
+            {
+              "name": "Sesame Ice Cream",
+              "description": "Rich sesame-flavored ice cream",
+              "price": 5.99,
+              "image": "https://s3.amazonaws.com/static.realcaliforniamilk.com/media/recipes_2/california-cheese-khachapuri.jpg" 
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Pink Berry",
+      "cuisine": "Frozen Yogurt",
+      "poster": "https://menu.am/resources/default/img/restaurants/big/1695383297325-804.jpg",
+      "menu": [
+        {
+          "category": "Frozen Yogurt",
+          "items": [
+            {
+              "name": "Original Flavor",
+              "description": "Classic frozen yogurt with various toppings",
+              "price": 4.99,
+              "image": "https://www.livveganstrong.com/wp-content/uploads/2022/09/sushi-fp-500x500.jpg"
+            },
+            {
+              "name": "Berry Bliss",
+              "description": "Frozen yogurt with mixed berries",
+              "price": 5.99,
+              "image": "https://s3.amazonaws.com/static.realcaliforniamilk.com/media/recipes_2/california-cheese-khachapuri.jpg" 
+            }
+          ]
+        },
+        {
+          "category": "Smoothies",
+          "items": [
+            {
+              "name": "Tropical Delight",
+              "description": "Smoothie with mango, pineapple, and coconut",
+              "price": 6.99,
+              "image": "https://www.livveganstrong.com/wp-content/uploads/2022/09/sushi-fp-500x500.jpg"
+            },
+            {
+              "name": "Green Goddess",
+              "description": "Spinach and kale smoothie with banana and apple",
+              "price": 7.99,
+              "image": "https://s3.amazonaws.com/static.realcaliforniamilk.com/media/recipes_2/california-cheese-khachapuri.jpg" 
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Karas 1/1 Abovyan",
+      "poster": "https://menu.am/resources/default/img/restaurants/big/1692791026219-447.jpg",
+      "cuisine": "Armenian",
+      "menu": [
+        {
+          "category": "Appetizers",
+          "items": [
+            {
+              "name": "Dolma",
+              "description": "Grape leaves stuffed with rice and herbs",
+              "price": 8.99,
+              "image": "https://www.livveganstrong.com/wp-content/uploads/2022/09/sushi-fp-500x500.jpg"
+            },
+            {
+              "name": "Eggplant Caviar",
+              "description": "Smoky eggplant dip with tomatoes and garlic",
+              "price": 7.99,
+              "image": "https://www.livveganstrong.com/wp-content/uploads/2022/09/sushi-fp-500x500.jpg"
+
+            }
+          ]
+        },
+        {
+          "category": "Main Courses",
+          "items": [
+            {
+              "name": "Khorovats",
+              "description": "Grilled meat skewers",
+              "price": 16.99,
+              "image": "https://www.livveganstrong.com/wp-content/uploads/2022/09/sushi-fp-500x500.jpg"
+
+            },
+            {
+              "name": "Lavash Pizza",
+              "description": "Armenian flatbread topped with cheese and herbs",
+              "price": 14.99,
+              "image": "https://www.livveganstrong.com/wp-content/uploads/2022/09/sushi-fp-500x500.jpg"
+            }
+          ]
+        },
+        {
+          "category": "Desserts",
+          "items": [
+            {
+              "name": "Gata",
+              "description": "Sweet pastry filled with nuts and honey",
+              "price": 9.99,
+              "image": "https://s3.amazonaws.com/static.realcaliforniamilk.com/media/recipes_2/california-cheese-khachapuri.jpg" 
+            },
+            {
+              "name": "Armenian Coffee",
+              "description": "Strong and rich coffee served with a sweet treat",
+              "price": 4.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS60BhJumo4asNKzHCzTVxh_zru5UD5VdQZlw&usqp=CAU"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Tumanyan Shaurma Buzand",
+      "cuisine": "Armenian",
+      "poster": "https://menu.am/resources/default/img/restaurants/big/1692790154268-2735.jpg",
+      "menu": [
+        {
+          "category": "Shaurma",
+          "items": [
+            {
+              "name": "Chicken Shaurma",
+              "description": "Grilled chicken with vegetables in lavash bread",
+              "price": 7.99,
+              "image": "https://s3.amazonaws.com/static.realcaliforniamilk.com/media/recipes_2/california-cheese-khachapuri.jpg" 
+            },
+            {
+              "name": "Beef Shaurma",
+              "description": "Grilled beef with onions and tomatoes in lavash bread",
+              "price": 8.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS60BhJumo4asNKzHCzTVxh_zru5UD5VdQZlw&usqp=CAU"
+            }
+          ]
+        },
+        {
+          "category": "Platters",
+          "items": [
+            {
+              "name": "Mixed Grill",
+              "description": "Assorted grilled meats with rice and salad",
+              "price": 14.99,
+              "image": "https://www.livveganstrong.com/wp-content/uploads/2022/09/sushi-fp-500x500.jpg"
+
+            },
+            {
+              "name": "Vegetarian Platter",
+              "description": "Grilled vegetables and falafel with hummus",
+              "price": 12.99,
+              "image": "https://s3.amazonaws.com/static.realcaliforniamilk.com/media/recipes_2/california-cheese-khachapuri.jpg" 
+            }
+          ]
+        },
+        {
+          "category": "Sides",
+          "items": [
+            {
+              "name": "Fries",
+              "description": "Crispy golden fries",
+              "price": 3.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS60BhJumo4asNKzHCzTVxh_zru5UD5VdQZlw&usqp=CAU"
+            },
+            {
+              "name": "Tabbouleh",
+              "description": "Fresh parsley salad with tomatoes and bulgur",
+              "price": 4.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_F_OLPiX9LGmm1-vkW2fFLk1l1PpFEgGuPw&usqp=CAU"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Mr. Gyros Amiryan",
+      "cuisine": "Greek",
+      "poster": "https://menu.am/resources/default/img/restaurants/big/1676398910870-1649.jpg",
+      "menu": [
+        {
+          "category": "Gyros",
+          "items": [
+            {
+              "name": "Chicken Gyros",
+              "description": "Grilled chicken with tomatoes, onions, and tzatziki in pita bread",
+              "price": 9.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_F_OLPiX9LGmm1-vkW2fFLk1l1PpFEgGuPw&usqp=CAU"
+            },
+            {
+              "name": "Beef Gyros",
+              "description": "Sliced beef with lettuce, tomatoes, and garlic sauce in pita bread",
+              "price": 10.99,
+              "image": "https://therecipecritic.com/wp-content/uploads/2019/08/vegetable_stir_fry-500x500.jpg"
+            }
+          ]
+        },
+        {
+          "category": "Souvlaki",
+          "items": [
+            {
+              "name": "Pork Souvlaki",
+              "description": "Marinated pork skewers with lemon and herbs",
+              "price": 11.99,
+              "image": "https://westontable.com/cdn/shop/articles/Edamame-with-Truffle-Salt-Weston-Table_1631x.jpg?v=1595872784"
+            },
+            {
+              "name": "Vegetarian Souvlaki",
+              "description": "Grilled vegetables on skewers with feta cheese",
+              "price": 12.99,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_F_OLPiX9LGmm1-vkW2fFLk1l1PpFEgGuPw&usqp=CAU"
+            }
+          ]
+        },
+        {
+          "category": "Desserts",
+          "items": [
+            {
+              "name": "Baklava",
+              "description": "Sweet pastry with nuts and honey",
+              "price": 6.99,
+              "iamge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6RVWRo5bemMuZt-tz4b1zn3jaVI8VT6-XWQ&usqp=CAU"
+            },
+            {
+              "name": "Greek Yogurt Parfait",
+              "description": "Greek yogurt with honey and fresh berries",
+              "price": 5.99,
+              "image": "https://westontable.com/cdn/shop/articles/Edamame-with-Truffle-Salt-Weston-Table_1631x.jpg?v=1595872784"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Coffeeshop Company Hin Yerevantsi",
+      "cuisine": "European",
+      "poster": "https://menu.am/resources/default/img/restaurants/big/1676410754283-846.jpg",
+      "menu": [
+        {
+          "category": "Coffee",
+          "items": [
+            {
+              "name": "Espresso",
+              "description": "Strong black coffee",
+              "price": 3.99,
+              "image": "https://westontable.com/cdn/shop/articles/Edamame-with-Truffle-Salt-Weston-Table_1631x.jpg?v=1595872784"
+            },
+            {
+              "name": "Cappuccino",
+              "description": "Espresso with steamed milk and foam",
+              "price": 4.99,
+              "image": "https://therecipecritic.com/wp-content/uploads/2019/08/vegetable_stir_fry-500x500.jpg"
+            }
+          ]
+        },
+        {
+          "category": "Tea",
+          "items": [
+            {
+              "name": "Chai Latte",
+              "description": "Spiced tea with steamed milk",
+              "price": 4.49,
+              "iamge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6RVWRo5bemMuZt-tz4b1zn3jaVI8VT6-XWQ&usqp=CAU"
+            },
+            {
+              "name": "Green Tea",
+              "description": "Classic green tea",
+              "price": 3.99,
+              "image": "https://westontable.com/cdn/shop/articles/Edamame-with-Truffle-Salt-Weston-Table_1631x.jpg?v=1595872784"
+            }
+          ]
+        },
+        {
+          "category": "Pastries",
+          "items": [
+            {
+              "name": "Croissant",
+              "description": "Flaky and buttery pastry",
+              "price": 2.99,
+              "iamge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6RVWRo5bemMuZt-tz4b1zn3jaVI8VT6-XWQ&usqp=CAU"
+            },
+            {
+              "name": "Blueberry Muffin",
+              "description": "Moist muffin with blueberries",
+              "price": 3.49,
+              "image": "https://therecipecritic.com/wp-content/uploads/2019/08/vegetable_stir_fry-500x500.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

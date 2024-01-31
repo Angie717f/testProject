@@ -1,0 +1,54 @@
+.user_entry-block {
+  display: flex;
+  background-color: #f9f9fb76;
+}
+
+.user-entry-outlet {
+  display: flex;
+  width: 58%;
+  height: 1000px;
+  margin-bottom: 50px;
+}
+
+.user_enrty-image{
+  width: 42%;
+  height: 1000px;
+}
+
+.user_entry-form form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  color: #424242;
+}
+
+.user_entry-form form div {
+  display: flex;
+  gap: 7px;
+  flex-direction: column;
+}
+
+.user_entry-form form div span {
+  font-size: 0.75rem;
+  font-family: Noto Sans Armenian, sans-serif, Arial, Open Sans, "Segoe UI",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Helvetica Neue", "Apple Color Emoji";
+  font-weight: 400;
+  line-height: 1.66;
+}
+
+.user_entry-form form div input {
+  width: 100%;
+  border: 1px solid #cccccc;
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 40px;
+  outline: none;
+  padding: 0 10px;
+}
+
+.user_entry-form form div input::placeholder {
+  font-size: 14px;
+  letter-spacing: 1px;
+  color: #cccccc;
+}
+

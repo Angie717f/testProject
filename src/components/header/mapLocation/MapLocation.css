@@ -1,0 +1,48 @@
+.map-location {
+  display: flex;
+  border: 1px solid #e3e3e3;
+  border-radius: 10px;
+  background-color: white;
+  padding: 0 8px;
+  min-height: 40px;
+}
+
+/** Input */
+
+.map-location input {
+  background-color: none;
+  border: none;
+  outline: none;
+  border-radius: 10px 0  0 10px;
+  font-size: 15px;
+  border-right: 1px solid #e3e3e3;
+  padding: 0px 5px;
+  min-width: 270px;
+}
+
+.map-location input::placeholder {
+  color: rgb(167, 159, 159);
+  letter-spacing: 1px;
+}
+
+/** Button */
+
+.map-btn {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 8px;
+}
+
+.map-btn span {
+  display: flex;
+  align-items: center;
+  margin-left: 8px;
+  font-size: 14px;
+  color: #424242;
+}
+
+.map-location svg {
+  font-size: 15px;
+}

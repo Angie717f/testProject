@@ -1,0 +1,25 @@
+.basket-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  color: white;
+  font-size: 25px;
+  position: relative;
+}
+
+.basket {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: transparent linear-gradient(180deg, #c5022e 0%, #ea1f4d 100%) 0% 0% no-repeat;
+  padding: 0px 18px;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  font-family: Noto Sans Armenian,sans-serif,Arial,Open Sans,"Segoe UI","Segoe UI Emoji","Segoe UI Symbol","Helvetica Neue","Apple Color Emoji";
+  border-radius: 10px;
+  min-width: 70px;
+  min-height: 45px;
+  color: white;
+  font-size: 25px;
+}
